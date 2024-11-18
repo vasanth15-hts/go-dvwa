@@ -19,7 +19,7 @@ require (
 	github.com/spf13/viper v1.7.0 // indirect
 	github.com/sqreen/go-agent v1.0.5
 	github.com/stretchr/testify v1.6.1
-	google.golang.org/protobuf v1.24.0 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/ini.v1 v1.56.0 // indirect
 )
